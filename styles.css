@@ -1,0 +1,63 @@
+/* Header */
+.logo {
+  width: 200px;
+}
+
+/* Hero */
+.hero {
+  background-image: url("assets/header.jpg");
+  height: 800px;
+  background-size: cover;
+}
+
+.social-icons-container {
+  margin-top: 576px;
+}
+
+.social-icons {
+  width: 50px;
+}
+
+.team-accelerator {
+  margin-top: 488px;
+}
+
+.team-accelerator-card {
+  border-radius: 10px;
+}
+
+/* Why */
+
+.why {
+  background-color: #071f58;
+}
+
+.why-content {
+  margin-top: 400px;
+  color: white;
+}
+
+.why-card {
+  border-radius: 10px;
+  border: 0;
+}
+
+.why-card-1 {
+  margin-top: 400px;
+}
+
+.why-card-2 {
+  margin-top: 300px;
+}
+
+.why-card-3 {
+  margin-top: 30px;
+}
+
+/* Wezeo */
+
+.wezeo {
+  background-image: url("assets/office.jpg");
+  height: 800px;
+  background-size: cover;
+}
