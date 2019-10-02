@@ -61,3 +61,31 @@
   height: 800px;
   background-size: cover;
 }
+
+/* Grishi */
+
+.grishi-container {
+  margin-top: 370px;
+  height: 350px;
+  background-color: cornflowerblue;
+  border-radius: 15px;
+}
+
+.grishi-left {
+  background-color: white;
+  border-radius: 15px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 50px;
+}
+
+.grishi-right {
+  background-color: cornflowerblue;
+  border-radius: 15px;
+  color: white;
+}
+
+.grishi-img {
+  height: 450px;
+  margin-top: -100px;
+  margin-left: -54px;
+}
